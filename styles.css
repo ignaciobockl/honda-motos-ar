@@ -3,3 +3,8 @@
   margin: 0;
   padding: 0;
 }
+
+#navbarTogglerDemo03.show {
+  background-color: #cfcece;
+  padding: 15px;
+}
